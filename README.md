@@ -4,6 +4,7 @@
    - *Topics covered:* Spark Architecture, PySpark hands-on experience, optimization techniques, and challenges.
    - *Scenario-based questions:*
      - "Optimizing a PySpark job processing a massive dataset."
+     - "Data integretity issues -> JOBs Failing in between eg API request response saving and job failing"
      - "Handling errors in transformations due to data inconsistencies."
      - "You're tasked with integrating a new data source into your existing PySpark pipeline. How would you approach this, considering data quality, compatibility, and performance?"
      - "In a PySpark project, you discover that some transformations are causing skewed data distribution. How would you handle this issue to ensure a balanced and efficient processing?"
