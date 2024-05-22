@@ -35,3 +35,22 @@
    - *Scenario-based questions:*
      - "Designing a scalable and cost-effective data storage solution in a cloud environment."
      - "Ensuring efficient ETL processes while maintaining data quality in a project with diverse data sources stored in a data lake."
+    
+p	o
+15	NULL
+1	2
+3	2
+2	4
+6	4
+7	6
+5	6
+8	9
+10	9
+9	11
+13	11
+12	13
+14	13
+4	15
+11	15
+![image](https://github.com/rahulroy-io/get-interviewed/assets/17535597/efefa74f-a118-48b6-85cb-7a99df1e6c87)
+
